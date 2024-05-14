@@ -3,4 +3,4 @@
 
 ssh-keygen -t rsa -b 4096 
 -f ~/.ssh/school 
--p betty
+-p 'betty'
